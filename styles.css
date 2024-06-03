@@ -1,0 +1,76 @@
+body{
+padding: 20px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+align-items: center;
+background-color: lightgreen;
+}
+span{
+    font-weight: bold;   
+}
+
+form{    
+    width: 370px;
+    margin-left: 450px;
+    border: 3px solid gray;
+    border-radius: 10px;
+    padding: 25px;
+    background-color: whitesmoke;    
+}
+table{
+    margin-left: 450px;
+    margin-top: 30px;
+    border: 2px solid green;
+    width: 430px;   
+    border-radius: 10px;
+    background-color: whitesmoke;
+    display: block;
+}
+td{
+height: 25px;
+border: 1px solid green;
+width: 100%;
+border-radius: 5px;
+width: 207px;
+}
+span{
+    color: red;
+    font-weight: lighter;
+    font-size: 14px;    
+}
+.inputField{
+    border: 2px solid;
+    border-radius: 7px;
+    width: 350px;
+    height: 25px;
+}
+.name{
+font-size: 18px;
+font-weight: bold;
+color: darkgreen;
+}
+p{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+select{
+    border: 2px solid;
+    border-radius: 7px;
+    width: 260px;
+    height: 25px; 
+    margin-left: 25px;;
+}
+.send{
+    width: 120px;
+    height: 35px; 
+    border: 2px solid green;
+    border-radius: 7px;
+    margin-left: 120px;
+    font-weight: bold;
+    font-size: 16px;
+    color:maroon;
+}
+.title{
+    font-size: 22px;
+    font-weight: bold;
+    color: maroon;
+}
